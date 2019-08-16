@@ -42,7 +42,10 @@
         "HTML_IMPORT_TEXT_PRIVATE_KEY": "Введите ваш приватный ключ",
         "HTML_IMPORT_WARNING": "Проверьте адресную строку вашего браузера:",
         "MESSAGE_APPLICATION_ALLOWED": "Вы разрешили приложению %1 доступ к вашему аккаунту",
+        "MESSAGE_APPLICATION_DEAUTHORIZED": "Приложение деавторизовано",
         "MESSAGE_APPLICATION_DENIED": "Вы запретили приложению %1 доступ к вашему аккаунту",
+        "MESSAGE_APPLICATION_LIST": "Список авторизованных приложений",
+        "MESSAGE_APPLICATION_REQUEST": "Приложение **%1** запрашивает доступ к вашему аккаунту U.CASH Wallet\n\nОно сможет:\n%2",
         "MESSAGE_CONFIRM_TRANSACTION_PASSWORD": "Пожалуйста, введите свой пароль чтобы отправить транзакцию",
         "MESSAGE_ENTER_PASSWORD_IMPORT": "Пожалуйста, введите свой пароль чтобы завершить процесс импорта",
         "MESSAGE_ERROR_IMPORT": "Произошла ошибка при импорте аккаунта\nПожалуйста, свяжитесь с поддержкой",
@@ -61,6 +64,8 @@
         "MESSAGE_LOADING": "Загрузка...",
         "MESSAGE_MAIN_MENU": "Главное меню",
         "MESSAGE_NEW_WALLET_PASSWORD": "Пожалуйста, введите свой пароль чтобы создать новый кошелек",
+        "MESSAGE_PART_APPLICATION_ALLOWED": "[РАЗРЕШЕНО]",
+        "MESSAGE_PART_APPLICATION_DENIED": "[ЗАПРЕЩЕНО]",
         "MESSAGE_PART_AVAILABLE": "Доступно",
         "MESSAGE_PART_AVAILABLE_BALANCE": "Доступный баланс кошелька `%1`:",
         "MESSAGE_PART_BALANCE": "Баланс кошелька `%1`:",
@@ -100,11 +105,13 @@
         "MESSAGE_TRANSACTION_SENDING": "Отправка...",
         "MESSAGE_TRANSACTION_SUCCESS": "Транзакция успешно отправлена!",
         "MESSAGE_WALLET_CREATED": "Мы создали новый Ethereum кошелек для вас: `%1`",
+        "MESSAGE_WALLET_IMPORT_CANCELLED": "Импорт отменен",
         "MESSAGE_WALLET_IMPORTED": "Успешно импортирован кошелек: `%1`",
         "MESSAGE_WALLET_REMOVED": "Кошелек был успешно удален с вашего аккаунта",
         "MESSAGE_WELCOME": "Добро пожаловать в U.CASH Wallet, %1!",
         "MESSAGE_WRONG_PASSWORD": "Вы ввели неверный пароль\nПожалуйста, попробуйте еще раз",
         "MESSAGE_YOUR_WALLETS": "Ваши кошельки",
+        "PERMISSION_VIEW_WALLET": "Просматривать адреса ваших кошельков",
         "URL_CHECK_OUT_TRANSACTION": "Проверить статус транзации"
     }
 }

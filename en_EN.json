@@ -41,7 +41,10 @@
         "HTML_IMPORT_TEXT_PRIVATE_KEY": "Enter your private key",
         "HTML_IMPORT_WARNING": "Make sure that you are visiting",
         "MESSAGE_APPLICATION_ALLOWED": "You have successfully allowed %1 access to your account",
+        "MESSAGE_APPLICATION_DEAUTHORIZED": "Application deauthorized",
         "MESSAGE_APPLICATION_DENIED": "You have successfully denied %1 access to your account",
+        "MESSAGE_APPLICATION_LIST": "Authorized applications",
+        "MESSAGE_APPLICATION_REQUEST": "Application **%1** is asking for access to your U.CASH Wallet account\n\nIt will be able to:\n%2",
         "MESSAGE_CONFIRM_TRANSACTION_PASSWORD": "Please enter your password to send this transaction",
         "MESSAGE_ENTER_PASSWORD_IMPORT": "Please enter your password to import the wallet",
         "MESSAGE_ERROR_IMPORT": "Oops! Unable to import your account\nPlease, contact the support",
@@ -60,6 +63,8 @@
         "MESSAGE_LOADING": "Loading...",
         "MESSAGE_MAIN_MENU": "Main menu",
         "MESSAGE_NEW_WALLET_PASSWORD": "Please enter your password to create a new wallet",
+        "MESSAGE_PART_APPLICATION_ALLOWED": "[ALLOWED]",
+        "MESSAGE_PART_APPLICATION_DENIED": "[DENIED]",
         "MESSAGE_PART_AVAILABLE": "Available to send",
         "MESSAGE_PART_AVAILABLE_BALANCE": "Available balance of `%1`:",
         "MESSAGE_PART_BALANCE": "Balance of account `%1`:",
@@ -99,11 +104,13 @@
         "MESSAGE_TRANSACTION_SENDING": "Sending...",
         "MESSAGE_TRANSACTION_SUCCESS": "Your transaction is on its way!",
         "MESSAGE_WALLET_CREATED": "We have created an ethereum account for you:\nAddress: `%1`",
+        "MESSAGE_WALLET_IMPORT_CANCELLED": "Import cancelled",
         "MESSAGE_WALLET_IMPORTED": "Successfully imported ethereum account: `%1`",
         "MESSAGE_WALLET_REMOVED": "Wallet successfully removed from your account",
         "MESSAGE_WELCOME": "Welcome to U.CASH Wallet, %1!",
         "MESSAGE_WRONG_PASSWORD": "Oops! You entered wrong password\nPlease, try again",
         "MESSAGE_YOUR_WALLETS": "Your wallets",
+        "PERMISSION_VIEW_WALLET": "View your wallet addresses",
         "URL_CHECK_OUT_TRANSACTION": "Check out transaction status"
     }
 }
